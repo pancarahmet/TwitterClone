@@ -64,7 +64,7 @@ class _LoginState extends State<Login> {
                       FontAwesomeIcons.apple,
                     ),
                     SizedBox(
-                      width: 10,
+                      width: 12,
                     ),
                     Text(
                       "Apple ile giriş yap",
